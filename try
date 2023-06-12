@@ -1,0 +1,14 @@
+909090909, j, 8.00
+
+public class try{
+    public static void main(String[]args){
+
+        String character = "The quick brown fox jumps over the lazy dog.";
+
+        character.replace(' ','%');
+
+        System.out.println(character);
+
+
+    }
+}
