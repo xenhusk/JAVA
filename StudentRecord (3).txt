@@ -1,0 +1,361 @@
+SHANEL MAE GRACE	ALFORTE 223033498  	Y	8
+CITE1006	Computer Programming 2	3	98.69
+COSC1002	Discrete Structures 1	3	93.35
+COSC 1046	College Calculus	3	89.95
+GEDC1010	Art Appreciation	3	81.88
+GEDC1013	Science, Technology, and Society	3	88.07
+NSTP1010	Purposive communication	3	82.02
+NSTP1010	National Service Training Program	3	68.94
+PHED1006	Exercise-based Fitness Activites	2	78.66
+
+JOHN KENNETH	ANDANA     190398767 	Y	8
+CITE 1006	Computer Programming 2	3	92.52
+COSC 1002	Discrete Structures 1	3	89.74
+COSC 1046	College Calculus	3	87.31
+GEDC 1010	Art Appreciation	3	72.98
+GEDC 1013	Science, Technology, and Society	3	84.63
+GEDC 1016	Purposive Communication	3	73.01
+NSTP1010	National Service Training Program	3	99.58
+PHED1006	Exercise-based Fitness Activites 2	2	81.13
+
+RYAN CRISTIAN	BAJA      221472382  	Y	8
+CITE 1006	Computer Programming 2	3	90.88
+COSC 1002	Discrete Structures 1	3	91.16
+COSC 1046	College Calculus	3	81.96
+GEDC 1010	Art Appreciation	3	67.71
+GEDC 1013	Science, Technology, and Society	3	72.82
+GEDC 1016	Purposive Communication	3	78.55
+NSTP1010	National Service Training Program	3	95.61
+PHED1006	Exercise-based Fitness Activites 2	2	99.67
+
+WENARD ROY	BARRERA      222461308   	Y	8
+CITE 1006	Computer Programming 2	3	93.79
+COSC 1002	Discrete Structures 1	3	96.11
+COSC 1046	College Calculus	3	66.06
+GEDC 1010	Art Appreciation	3	87.69
+GEDC 1013	Science, Technology, and Society	3	94.17
+GEDC 1016	Purposive Communication	3	65.67
+NSTP1010	National Service Training Program	3	79.39
+PHED1006	Exercise-based Fitness Activites 2	2	82.24
+
+JOHN ERIC	BAYER         221076453   	Y	8
+CITE 1006	Computer Programming 2	3	92.87
+COSC 1002	Discrete Structures 1	3	84.12
+COSC 1046	College Calculus	3	92.87
+GEDC 1010	Art Appreciation	3	85.27
+GEDC 1013	Science, Technology, and Society	3	68.88
+GEDC 1016	Purposive Communication	3	87.49
+NSTP1010	National Service Training Program	3	75.37
+PHED1006	Exercise-based Fitness Activites 2	2	88.69
+
+KURT ZHYNKENT	CANJA     222343163    	Y	8
+CITE 1006	Computer Programming 2	3	83.17
+COSC 1002	Discrete Structures 1	3	90.72
+COSC 1046	College Calculus	3	90.92
+GEDC 1010	Art Appreciation	3	80.94
+GEDC 1013	Science, Technology, and Society	3	95.18
+GEDC 1016	Purposive Communication	3	80.41
+NSTP1010	National Service Training Program	3	70.63
+PHED1006	Exercise-based Fitness Activites 2	2	66.01
+
+CHARLES DEVIN	CASO      220607741    	Y	8
+CITE 1006	Computer Programming 2	3	80.18
+COSC 1002	Discrete Structures 1	3	77.77
+COSC 1046	College Calculus	3	93.47
+GEDC 1010	Art Appreciation	3	89.34
+GEDC 1013	Science, Technology, and Society	3	81.38
+GEDC 1016	Purposive Communication	3	88.91
+NSTP1010	National Service Training Program	3	75.71
+PHED1006	Exercise-based Fitness Activites 2	2	72.39
+
+KURT SIMON	CLARIDAD     223189503    	Y	8
+CITE 1006	Computer Programming 2	3	76.57
+COSC 1002	Discrete Structures 1	3	85.36
+COSC 1046	College Calculus	3	83.44
+GEDC 1010	Art Appreciation	3	89.34
+GEDC 1013	Science, Technology, and Society	3	65.99
+GEDC 1016	Purposive Communication	3	93.01
+NSTP1010	National Service Training Program	3	85.61
+PHED1006	Exercise-based Fitness Activites 2	2	92.64
+
+MIKE LOURENCE	DAMOLE    221656380    	Y	8
+CITE 1006	Computer Programming 2	3	97.19
+COSC 1002	Discrete Structures 1	3	90.96
+COSC 1046	College Calculus	3	85.22
+GEDC 1010	Art Appreciation	3	75.31
+GEDC 1013	Science, Technology, and Society	3	81.06
+GEDC 1016	Purposive Communication	3	86.15
+NSTP1010	National Service Training Program	3	91.64
+PHED1006	Exercise-based Fitness Activites 2	2	92.59
+
+KEN ANTHONY	DELA CRUZ   222638994	Y	8
+CITE 1006	Computer Programming 2	3	83.84
+COSC 1002	Discrete Structures 1	3	71.06
+COSC 1046	College Calculus	3	84.19
+GEDC 1010	Art Appreciation	3	68.09
+GEDC 1013	Science, Technology, and Society	3	69.47
+GEDC 1016	Purposive Communication	3	92.3
+NSTP1010	National Service Training Program	3	83.23
+PHED1006	Exercise-based Fitness Activites 2	2	79.96
+
+DAVID PAUL	DESUYO       223191535 	Y	8
+CITE 1006	Computer Programming 2	3	99.0
+COSC 1002	Discrete Structures 1	3	95.0
+COSC 1046	College Calculus	3	95.0
+GEDC 1010	Art Appreciation	3	100.0
+GEDC 1013	Science, Technology, and Society	3	100.0
+GEDC 1016	Purposive Communication	3	100.0
+NSTP1010	National Service Training Program	3	100.0
+PHED1006	Exercise-based Fitness Activites 2	2	100.0
+
+CARL JASPER	ESMOLO      222914739	Y	8
+CITE 1006	Computer Programming 2	3	75.59
+COSC 1002	Discrete Structures 1	3	71.04
+COSC 1046	College Calculus	3	70.13
+GEDC 1010	Art Appreciation	3	89.28
+GEDC 1013	Science, Technology, and Society	3	93.27
+GEDC 1016	Purposive Communication	3	93.18
+NSTP1010	National Service Training Program	3	97.43
+PHED1006	Exercise-based Fitness Activites 2	2	74.55
+
+CLARK JIM	GABIOTA	200307132	Y	8
+CITE 1006	Computer Programming 2	3	97.14
+COSC 1002	Discrete Structures 1	3	87.16
+COSC 1046	College Calculus	3	96.83
+GEDC 1010	Art Appreciation	3	69.4
+GEDC 1013	Science, Technology, and Society	3	73.85
+GEDC 1016	Purposive Communication	3	75.18
+NSTP1010	National Service Training Program	3	77.08
+PHED1006	Exercise-based Fitness Activites 2	2	97.14
+ 
+EDGE	GONZAGA	220958473    	Y	8
+CITE 1006	Computer Programming 2	3	78.47
+COSC 1002	Discrete Structures 1	3	91.61
+COSC 1046	College Calculus	3	68.85
+GEDC 1010	Art Appreciation	3	80.62
+GEDC 1013	Science, Technology, and Society	3	79.06
+GEDC 1016	Purposive Communication	3	70.14
+NSTP1010	National Service Training Program	3	80.64
+PHED1006	Exercise-based Fitness Activites 2	2	98.63
+
+JEFFERSON	INERE	223192528	Y	8
+CITE 1006	Computer Programming 2	3	78.47
+COSC 1002	Discrete Structures 1	3	91.66
+COSC 1046	College Calculus	3	68.85
+GEDC 1010	Art Appreciation	3	80.62
+GEDC 1013	Science, Technology, and Society	3	79.06
+GEDC 1016	Purposive Communication	3	70.14
+NSTP1010	National Service Training Program	3	80.64
+PHED1006	Exercise-based Fitness Activites 2	2	98.63
+
+ERIKA ANNE	LASTIERRE	220821710	Y	8
+CITE 1006	Computer Programming 2	3	92.48
+COSC 1002	Discrete Structures 1	3	96.36
+COSC 1046	College Calculus	3	78.82
+GEDC 1010	Art Appreciation	3	66.04
+GEDC 1013	Science, Technology, and Society	3	77.02
+GEDC 1016	Purposive Communication	3	78.65
+NSTP1010	National Service Training Program	3	99.03
+PHED1006	Exercise-based Fitness Activites 2	2	69.88
+
+TRACY ALJOHN	LEDESMA	223140208	Y	8
+CITE 1006	Computer Programming 2	3	66.94
+COSC 1002	Discrete Structures 1	3	81.29
+COSC 1046	College Calculus	3	75.45
+GEDC 1010	Art Appreciation	3	72.09
+GEDC 1013	Science, Technology, and Society	3	73.7
+GEDC 1016	Purposive Communication	3	85.04
+NSTP1010	National Service Training Program	3	99.64
+PHED1006	Exercise-based Fitness Activites 2	2	69.4
+
+KRISHNAN	MAHINAY	201089448	Y	8
+CITE 1006	Computer Programming 2	3	78.47
+COSC 1002	Discrete Structures 1	3	91.67
+COSC 1046	College Calculus	3	68.85
+GEDC 1010	Art Appreciation	3	80.62
+GEDC 1013	Science, Technology, and Society	3	79.06
+GEDC 1016	Purposive Communication	3	70.14
+NSTP1010	National Service Training Program	3	80.64
+PHED1006	Exercise-based Fitness Activites 2	2	98.63
+
+JOSEPH	MIRANDA	222039147	Y	8
+CITE 1006	Computer Programming 2	3	73.23
+COSC 1002	Discrete Structures 1	3	88.92
+COSC 1046	College Calculus	3	89.91
+GEDC 1010	Art Appreciation	3	99.56
+GEDC 1013	Science, Technology, and Society	3	90.09
+GEDC 1016	Purposive Communication	3	70.53
+NSTP1010	National Service Training Program	3	92.4
+PHED1006	Exercise-based Fitness Activites 2	2	93.2
+
+MC JEIEL	MUSICO	220039809	Y	8
+CITE 1006	Computer Programming 2	3	95.03
+COSC 1002	Discrete Structures 1	3	96.13
+COSC 1046	College Calculus	3	88.28
+GEDC 1010	Art Appreciation	3	85.79
+GEDC 1013	Science, Technology, and Society	3	78.41
+GEDC 1016	Purposive Communication	3	70.14
+NSTP1010	National Service Training Program	3	66.12
+PHED1006	Exercise-based Fitness Activites 2	2	90.97
+
+JAMES GALILLIE	NOCEJA	222956149	N	8
+CITE1006	Computer Programming 2	3	89.99
+COSC1002	Discrete Structures 1	3	90.45
+COSC 1046	College Calculus	3	74.99
+GEDC1010	Art Appreciation	3	86.31
+GEDC1013	Science, Technology, and Society	3	70.0
+GEDC1016	Purposive communication	3	91.315
+NSTP1010	National Service Training Program	3	77.77
+PHED1006	Exercise-based Fitness Activites	2	79.535
+
+RAFFY JOHN	PALPITA	223193522	Y	8
+CITE 1006	Computer Programming 2	3	70.56
+COSC 1002	Discrete Structures 1	3	97.12
+COSC 1046	College Calculus	3	76.49
+GEDC 1010	Art Appreciation	3	80.62
+GEDC 1013	Science, Technology, and Society	3	76.76
+GEDC 1016	Purposive Communication	3	74.81
+NSTP1010	National Service Training Program	3	98.39
+PHED1006	Exercise-based Fitness Activites 2	2	90.26
+
+JEREMIAH	PANTARAS	131350854	Y	8
+CITE 1006	Computer Programming 2	3	89.55
+COSC 1002	Discrete Structures 1	3	94.03
+COSC 1046	College Calculus	3	65.65
+GEDC 1010	Art Appreciation	3	70.12
+GEDC 1013	Science, Technology, and Society	3	94.23
+GEDC 1016	Purposive Communication	3	89.66
+NSTP1010	National Service Training Program	3	86.81
+PHED1006	Exercise-based Fitness Activites 2	2	70.76
+
+HEART DAY	REMADA	221970262	Y	8
+CITE 1006	Computer Programming 2	3	96.78
+COSC 1002	Discrete Structures 1	3	84.87
+COSC 1046	College Calculus	3	67.22
+GEDC 1010	Art Appreciation	3	81.85
+GEDC 1013	Science, Technology, and Society	3	99.56
+GEDC 1016	Purposive Communication	3	97.31
+NSTP1010	National Service Training Program	3	99.22
+PHED1006	Exercise-based Fitness Activites 2	2	94.42
+
+ALTHEA	ROMANO	222271643	Y	8
+CITE 1006	Computer Programming 2	3	82.74
+COSC 1002	Discrete Structures 1	3	87.08
+COSC 1046	College Calculus	3	81.85
+GEDC 1010	Art Appreciation	3	80.62
+GEDC 1013	Science, Technology, and Society	3	80.41
+GEDC 1016	Purposive Communication	3	95.95
+NSTP1010	National Service Training Program	3	90.12
+PHED1006	Exercise-based Fitness Activites 2	2	80.35
+
+JOSEPH CHARLES	ROQUE	224744785	Y	8
+CITE 1006	Computer Programming 2	3	96.47
+COSC 1002	Discrete Structures 1	3	67.55
+COSC 1046	College Calculus	3	65.36
+GEDC 1010	Art Appreciation	3	80.87
+GEDC 1013	Science, Technology, and Society	3	66.41
+GEDC 1016	Purposive Communication	3	94.15
+NSTP1010	National Service Training Program	3	97.05
+PHED1006	Exercise-based Fitness Activites 2	2	80.96
+
+JAKELIN	SALINAS	223170572	Y	8
+CITE 1006	Computer Programming 2	3	93.66
+COSC 1002	Discrete Structures 1	3	79.51
+COSC 1046	College Calculus	3	83.76
+GEDC 1010	Art Appreciation	3	81.04
+GEDC 1013	Science, Technology, and Society	3	99.12
+GEDC 1016	Purposive Communication	3	71.17
+NSTP1010	National Service Training Program	3	85.23
+PHED1006	Exercise-based Fitness Activites 2	2	75.83
+
+YUSHANE	SAMPIT	222303492	Y	8
+CITE 1006	Computer Programming 2	3	78.16
+COSC 1002	Discrete Structures 1	3	67.51
+COSC 1046	College Calculus	3	88.02
+GEDC 1010	Art Appreciation	3	81.42
+GEDC 1013	Science, Technology, and Society	3	83.45
+GEDC 1016	Purposive Communication	3	77.63
+NSTP1010	National Service Training Program	3	75.39
+PHED1006	Exercise-based Fitness Activites 2	2	96.31
+
+HYCINTH OLLAN	SANA-ANI	223195871	Y	8
+CITE 1006	Computer Programming 2	3	94.14
+COSC 1002	Discrete Structures 1	3	84.89
+COSC 1046	College Calculus	3	78.21
+GEDC 1010	Art Appreciation	3	80.62
+GEDC 1013	Science, Technology, and Society	3	78.67
+GEDC 1016	Purposive Communication	3	97.14
+NSTP1010	National Service Training Program	3	92.72
+PHED1006	Exercise-based Fitness Activites 2	2	81.27
+
+KYRELL	SANTILLAN	200062747	Y	8
+CITE 1006	Computer Programming 2	3	79.58
+COSC 1002	Discrete Structures 1	3	77.19
+COSC 1046	College Calculus	3	93.75
+GEDC 1010	Art Appreciation	3	82.85
+GEDC 1013	Science, Technology, and Society	3	93.78
+GEDC 1016	Purposive Communication	3	76.41
+NSTP1010	National Service Training Program	3	71.11
+PHED1006	Exercise-based Fitness Activites 2	2	77.07
+
+SHAKIRA AISLE	SEDILLO	221993425	Y	8
+CITE 1006	Computer Programming 2	3	81.49
+COSC 1002	Discrete Structures 1	3	91.84
+COSC 1046	College Calculus	3	99.96
+GEDC 1010	Art Appreciation	3	79.64
+GEDC 1013	Science, Technology, and Society	3	91.28
+GEDC 1016	Purposive Communication	3	79.12
+NSTP1010	National Service Training Program	3	80.64
+PHED1006	Exercise-based Fitness Activites 2	2	89.94
+
+JOHN PAUL	SERQUILLOS	220355275	Y	8
+CITE 1006	Computer Programming 2	3	71.93
+COSC 1002	Discrete Structures 1	3	73.16
+COSC 1046	College Calculus	3	78.01
+GEDC 1010	Art Appreciation	3	68.14
+GEDC 1013	Science, Technology, and Society	3	93.45
+GEDC 1016	Purposive Communication	3	96.25
+NSTP1010	National Service Training Program	3	84.85
+PHED1006	Exercise-based Fitness Activites 2	2	66.19
+
+ALF WARREN	SUAREZ	221600229	Y	8
+CITE 1006	Computer Programming 2	3	95.35
+COSC 1002	Discrete Structures 1	3	70.17
+COSC 1046	College Calculus	3	95.38
+GEDC 1010	Art Appreciation	3	70.65
+GEDC 1013	Science, Technology, and Society	3	77.45
+GEDC 1016	Purposive Communication	3	75.07
+NSTP1010	National Service Training Program	3	80.64
+PHED1006	Exercise-based Fitness Activites 2	2	77.61
+
+JOHN HARVEY	VILLAFLOR	222433375	Y	8
+CITE 1006	Computer Programming 2	3	94.65
+COSC 1002	Discrete Structures 1	3	85.6
+COSC 1046	College Calculus	3	80.62
+GEDC 1010	Art Appreciation	3	89.54
+GEDC 1013	Science, Technology, and Society	3	67.91
+GEDC 1016	Purposive Communication	3	74.67
+NSTP1010	National Service Training Program	3	73.53
+PHED1006	Exercise-based Fitness Activites 2	2       87.11
+
+DAVID FLLOYD	VILLANUEVA	223185964	Y	8
+CITE 1006	Computer Programming 2	3	96.67
+COSC 1002	Discrete Structures 1	3	73.21
+COSC 1046	College Calculus	3	78.68
+GEDC 1010	Art Appreciation	3	85.02
+GEDC 1013	Science, Technology, and Society	3	72.36
+GEDC 1016	Purposive Communication	3	95.82
+NSTP1010	National Service Training Program	3	94.33
+PHED1006	Exercise-based Fitness Activites 2	2	78.27
+
+MARK RUSTY	VILLANUEVA	221025339	Y	8
+CITE 1006	Computer Programming 2	3	80.47
+COSC 1002	Discrete Structures 1	3	81.75
+COSC 1046	College Calculus	3	87.18
+GEDC 1010	Art Appreciation	3	98.39
+GEDC 1013	Science, Technology, and Society	3	77.86
+GEDC 1016	Purposive Communication	3	80.67
+NSTP1010	National Service Training Program	3	90.58
+PHED1006	Exercise-based Fitness Activites 2	2	98.63
+
+

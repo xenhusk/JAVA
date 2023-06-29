@@ -1,0 +1,14 @@
+Student Name: David Paul Desuyo
+Student ID: 22-3191-535
+Tuition Paid: Y
+Number of Courses Enrolled: 8
+
+Course No	Course Name		Credits		Grade
+CITE1006	Computer Programming 2	3		100.0
+COSC1002	Discrete Structures 1	3		100.0
+COSC1046	College Calculus	3		100.0
+GEDC1010	Art Appreciation	3		100.0
+GEDC1013	Science, Technology, and Society	3		100.0
+GEDC1016	Purposive Communication	3		100.0
+PHED1006	Exercise-based Fitness Activities	2		100.0
+NSTP1010	National Service Training Program 2	3		100.0

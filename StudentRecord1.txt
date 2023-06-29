@@ -1,0 +1,19 @@
+David Paul	Desuyo	223191535	Y	8
+CITE 1006	Computer Programming 2	3	99.0
+COSC 1002	Discrete Structures 1	3	95.0
+COSC 1046	College Calculus	3	95.0
+GEDC 1010	Art Appreciation	3	100.0
+GEDC 1013	Science, Technology, and Society	3	100.0
+GEDC 1016	Purposive Communication	3	100.0
+1010-CWTS	NSTP	3	100.0
+PHED 1006	P.E.	2	100.0
+James Galillie	Noceja	222956149	N	8
+CITE1006	Computer Programming 2	3	89.99
+COSC1002	Discrete Structures 1	3	90.45
+COSC 1046	College Calculus	0	74.99
+GEDC1010	Art Appreciation	3	86.31
+GEDC1013	Science, Technology, and Society	3	70.0
+NSTP1010	Purposive communication	3	91.315
+NSTP1010	National Service Training Program	3	77.77
+PHED1006	Exercise-based Fitness Activites	2	79.535
+
