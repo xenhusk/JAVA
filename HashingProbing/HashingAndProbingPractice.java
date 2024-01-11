@@ -49,24 +49,23 @@ public class HashingAndProbingPractice {
     int optionMain = input.nextInt();
     switch(optionMain){
         case 1: hpm.displayTable();break;
-        case 2: hpm.clearTable(); numOfVarInTable = 0; break;
-        case 3: System.out.print("Input index to remove: "); int remIndex = input.nextInt(); hpm.removeAtIndex(remIndex); numOfVarInTable--;break;
-        case 4:
-    System.out.printf("How many contents will you put? (Available inputs %d): \nInput: ", (tablesize - numOfVarInTable));
-    int numOfInputsAdd = input.nextInt();
-    if (numOfVarInTable < tablesize) {
-        int addToTable = 0;
-        for (int i = 0; i < Math.min(numOfInputsAdd, tablesize - numOfVarInTable); i++) {
-            System.out.print("Input integer " + (i + 1) + ": ");
-            int key = input.nextInt();
-            hpm.insert(key, optionHashing, optionProbing, constant);
-            addToTable++;
-        }
-        numOfVarInTable += addToTable;
-    } else {
-        System.out.println("Table is full; cannot add more elements");
-    }
-    break;
+        case 2: hpm.clearTable(); System.out.println("Table Cleared");numOfVarInTable = 0; break;
+        case 3: System.out.print("Input index to remove: "); int remIndex = input.nextInt(); hpm.removeAtIndex(remIndex); System.out.println("Index "+remIndex+" removed!"); numOfVarInTable--;break;
+        case 4: System.out.printf("How many contents will you put? (Available inputs %d): \nInput: ", (tablesize - numOfVarInTable));
+                int numOfInputsAdd = input.nextInt();
+                    if (numOfVarInTable < tablesize) {
+                    int addToTable = 0;
+                    for (int i = 0; i < Math.min(numOfInputsAdd, tablesize - numOfVarInTable); i++) {
+                        System.out.print("Input integer " + (i + 1) + ": ");
+                        int key = input.nextInt();
+                        hpm.insert(key, optionHashing, optionProbing, constant);
+                        addToTable++;
+                    }
+                    numOfVarInTable += addToTable;
+                } else {
+                    System.out.println("Table is full; cannot add more elements");
+                }
+                break;
 
         case 5: System.out.println("Exiting Program"); mainLoop = false; break;
 
