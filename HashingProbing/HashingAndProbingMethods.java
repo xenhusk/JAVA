@@ -1,10 +1,9 @@
 import java.util.*;
 public class HashingAndProbingMethods {
 private int TableSize;
-private int[]table;
-
-public void HashTableAndProbingMethods(int TableSize){
-    table = new int[TableSize];
+private Hashtable<Integer, Integer> table;
+public void HashTableAndProbingMethods(int TableSize) {
+    table = new Hashtable<>(TableSize);
     this.TableSize = TableSize;
 }
 
@@ -12,8 +11,11 @@ public int DirectHashing(int key){
 return key % TableSize;
 }
 
-public int SubtractionHashing(int key, int constant){
-return key - constant % TableSize;
+public int SubtractionHashing(int key, int constant) {
+    int result = key - constant;
+        result = Math.abs(result);
+    
+    return result % TableSize;
 }
 
 public int DigitExtractionHashing(int key, int digitPosition){
@@ -103,7 +105,7 @@ public void insert(int key, int hashingMethod, int probingMethod, int... paramet
     }
 
     int attempt = 0;
-    while (table[index] != 0) {
+    while (table.containsKey(index)) {
         switch (probingMethod) {
             case 1: index = LinearProbing(index, attempt); break;
             case 2: index = QuadraticProbing(index, attempt); break;
@@ -112,23 +114,22 @@ public void insert(int key, int hashingMethod, int probingMethod, int... paramet
         attempt++;
     }
 
-    table[index] = key;
-}
+    table.put(index, key);}
 
 public void displayTable() {
     System.out.println("Hash Table:");
     for (int i = 0; i < TableSize; i++) {
-        System.out.println(i + ": " + table[i]);
+        System.out.println(i + ": " + table.get(i));
     }
 }
 
-public void clearTable(){
-    Arrays.fill(table, 0);
+public void clearTable() {
+    table.clear();
 }
 
 public void removeAtIndex(int index) {
     if (index >= 0 && index < TableSize) {
-        table[index] = 0; 
+        table.remove(index);
     } else {
         System.out.println("Invalid index");
     }
