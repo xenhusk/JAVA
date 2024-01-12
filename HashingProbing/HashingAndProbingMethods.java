@@ -34,16 +34,16 @@ public int ModDivisionHashing(int key){
 return key % TableSize;
 }
 
-public int MidSquareHashing(int key){
+public int MidSquareHashing(int key) {
     int square = key * key;
     String squareString = String.valueOf(square);
-    int midIndex = squareString.length()/2;
-    if (squareString.length()%2==1){
+    int midIndex = squareString.length() / 2;
+
+    if (squareString.length() % 2 == 1) {
         return Character.getNumericValue(squareString.charAt(midIndex));
-    }
-    else {
-        String middleDigits = squareString.substring(midIndex-1, midIndex+1);
-        return Integer.parseInt(middleDigits);
+    } else {
+        String middleDigits = squareString.substring(midIndex - 1, midIndex + 1);
+        return Integer.parseInt(middleDigits) % TableSize;
     }
 }
 
