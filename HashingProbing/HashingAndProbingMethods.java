@@ -1,7 +1,7 @@
 import java.util.*;
 public class HashingAndProbingMethods {
 private int TableSize;
-private Hashtable<Integer, Integer> table;
+private Hashtable<Integer, String> table;
 public void HashTableAndProbingMethods(int TableSize) {
     table = new Hashtable<>(TableSize);
     this.TableSize = TableSize;
@@ -83,7 +83,7 @@ public int KeyOffset(int index, int key){
 }
 
 
-public void insert(int key, int hashingMethod, int probingMethod, int... parameters) {
+public void insert(int key, String value, int hashingMethod, int probingMethod, int... parameters) {
     int index = -1;
     switch (hashingMethod) {
         case 1: index = DirectHashing(key); break;
@@ -114,14 +114,16 @@ public void insert(int key, int hashingMethod, int probingMethod, int... paramet
         attempt++;
     }
 
-    table.put(index, key);}
+    table.put(index, String.valueOf(key));}
 
-public void displayTable() {
-    System.out.println("Hash Table:");
-    for (int i = 0; i < TableSize; i++) {
-        System.out.println(i + ": " + table.get(i));
+    public void displayTable() {
+        System.out.println("Hash Table:");
+        for (int i = 0; i < TableSize; i++) {
+            String name = table.get(i);
+            System.out.println((i) + ": " + (name != null ? name : "null"));
+        }
     }
-}
+    
 
 public void clearTable() {
     table.clear();

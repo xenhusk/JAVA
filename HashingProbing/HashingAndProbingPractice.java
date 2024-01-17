@@ -11,7 +11,7 @@ public class HashingAndProbingPractice {
     Hashtable hashtable = new Hashtable<>(tablesize);
     System.out.printf("Choose Your Hashing Algorithm\n1: DirectHashing\n2: SubtractionHashing \n3: DigitExtractionHashing\n4: ModDivisionHashing\n5: MidSquareHashing\n6: FMFoldShift\n7: FMFoldBoundary\nOption: ");
     int optionHashing = input.nextInt();
-    System.out.printf("Choose Your Probing Algoritm\n1: DirectProbing\n2: QuadraticProbing\n3: KeyOffest\nOption: ");
+    System.out.printf("Choose Your Probing Algoritm\n1: LinearProbing\n2: QuadraticProbing\n3: KeyOffest\nOption: ");
     int optionProbing = input.nextInt();
     int constant = 0;
         switch(optionHashing){
@@ -32,9 +32,11 @@ public class HashingAndProbingPractice {
         if(numOfVarInTable < tablesize ){
             int addToTable = 0;
         for(int i=0; i<numOfInputs-numOfVarInTable; i++){
-            System.out.print("Input integer "+(i+1)+": ");
+            System.out.print("Input integer key: ");
             int key = input.nextInt();
-            hpm.insert(key, optionHashing, optionProbing, constant);
+            System.out.print("Input string value: ");
+            String value = input.next();
+            hpm.insert(key, value, optionHashing, optionProbing, constant);
             addToTable++;
         }
         numOfVarInTable = numOfVarInTable+addToTable;
@@ -56,9 +58,11 @@ public class HashingAndProbingPractice {
                     if (numOfVarInTable < tablesize) {
                     int addToTable = 0;
                     for (int i = 0; i < Math.min(numOfInputsAdd, tablesize - numOfVarInTable); i++) {
-                        System.out.print("Input integer " + (i + 1) + ": ");
+                        System.out.print("Input integer key: ");
                         int key = input.nextInt();
-                        hpm.insert(key, optionHashing, optionProbing, constant);
+                        System.out.print("Input string value: ");
+                        String value = input.next();
+                        hpm.insert(key, value, optionHashing, optionProbing, constant);
                         addToTable++;
                     }
                     numOfVarInTable += addToTable;
